@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- -->
+<thread name="superforum">
+   <post>
+      <id>1</id>
+      <replyTo>0</replyTo>
+      <timeStamp> 16. 3. 2011 23:22 </timeStamp>
+      <author>JaKot</author>
+      <text>Mám již více jak dva roky automobilovou navigaci Garmin Nuvi 760, ve které mám mimo evropské mapy nainstalovány i nejnovější mapu Topo Czech a Atlas, samozřejmě vč. Adres. Někdy v květnu či červnu se zúčastním cyklovýletu po cyklotrasách na Karlovarsku, Šumavě a v Rakousku podél Dunaje. Jinak na kole moc nejezdím, proto si nechci pořizovat speciální cyklonavigaci a rád bych pokud možno využil Garmina, kterého mám. Jenže baterie bez dalšího zdroje v nuvi vydrží dnes bez připojení na autobaterii už jen tak hodinu a já bych na kolo při uvedeném výletě potřeboval tak šest až devět hodin. Poradíte někdo, jak by šlo nějakým přídavným zdrojem prodloužit možnost použití navigace bez připojení na autobaterii. Tím přídavným zdrojem mám na mysli buď nějaký zdroj, který se dá koupit a nebo nějaké udělátko. Dík za rozumné rady.</text>
+   </post>
+   <post>
+      <id>2</id>
+      <replyTo>1</replyTo>
+      <timeStamp> 17. 3. 2011 07:43 </timeStamp>
+      <author>all in one</author>
+      <text>Zdravím, pro naše aktivity používáme zařízení typu PDA/PNA u nichž potřebujeme zajistit funkci po dobu 8-10 hodin. V našem mobilním zařízení se místo najde, váha je požadována co nejnižší, nejdůležitější je kapacita a rozumná cena, a tak to řešíme bezúdržbovými akumulátory 12V a standardním kabelem pro napájení v autě (na aku máme klasickou autozástrčku). Dobíjíme "doma" ze sítě. Přehled aku a dalších zdrojů máte např. zde: http://www.ges.cz/akumulatory-baterie/a ... e/XLI.html Tam se také můžete dále inspirovat co použít.... Nevím nakolik jste odborník přes elektro, tak ještě poznámku k tomu jakou má mít zdroj kapacitu - udává se v Ah (ampérhodinách) - zjistěte si odebíraný proud v Ampérech, vynásobte dobou v hodinách po kterou má být v činnosti, plus rezerva a podle toho shánějte zdroj.</text>
+   </post>
+   <post>
+      <id>3</id>
+      <replyTo>1</replyTo>
+      <timeStamp> 17. 3. 2011 08:25 </timeStamp>
+      <author>Zubr123</author>
+      <text>Pro tento účel používám držák na 4 tužkové AA baterky s USB kabelem. Proti předchozímu návrhu je to podstatně levnější a menší. Nevím kde jsem to koupil, ale pokud budete chvíli hledat, tak určitě něco podobného najdete. S mojí navigací to vydrží min 6 h trvalého provozu na jednu sadu baterek.</text>
+   </post>
+   <post>
+      <id>4</id>
+      <replyTo>3</replyTo>
+      <timeStamp> 17. 3. 2011 08:41 </timeStamp>
+      <author>all in one</author>
+      <text>Jistě, také řešení, na kole estetičtější, ale má háček: na USB by mělo být napětí 5V - pokud použijete tužkovky tak není problém, nabíjecí AA dávají jen 4x1,2=4,8V a to může vadit. Držák na AA dostanete také v GES. Pozor na kapacitu a dobře počítejte, cena nemusí být výhodnější. P.S. já potřebuji výdrž - výpadek před koncem činnosti by byl nepříjemný - zmařil by celou předchozí činnost! Estetika a nějaké deko navíc mne netrápí. Řeč byla o tomto:</text>
+   </post>
+   <post>
+      <id>5</id>
+      <replyTo>1</replyTo>
+      <timeStamp> 17. 3. 2011 22:03 </timeStamp>
+      <author>Zubr123</author>
+      <text>Kdysi jsme to řešili zde Kód: Vybrat vše http://poi.cz/phpbb/viewtopic.php?f=4&amp;t=3069 Jsou tam i odkazy na různé držáky. Já jsem tenkrát změřil i dobu nabíjení ze 4.8 V a proudové závislosti. Nouzově používám i normální tužkové baterky 4x1.5V. Podle měření ale vím, že v navigonu je stabilizátor a tak mu to nevadí. U jiných navigací bych to neriskoval. Vhodnější je čtveřice NiMH. Kompaktnější provedení pak vypadá třeba takto Kód: Vybrat vše http://www.pselectronic.cz/k5113-0097-4xum3f-usb-vyp-plochy.html</text>
+   </post>
+   <post>
+      <id>6</id>
+      <replyTo>3</replyTo>
+      <timeStamp> 17. 3. 2011 23:56 </timeStamp>
+      <author>JaKot</author>
+      <text>Pánové, oběma děkuji za informace. Pokud bych znal napětí a proud, tak bych jakž takž zvládl potřebnou kapacitu na řekněme 10 hodin provozu navigace spočítat, ale s ručičkama je to horší. Jo, o napětí od Vás informace je (5 V). Ale nevím jaký proud protéká navigací. A problém související s těma ručičkama - vyrobit si propojení z 6 V akumulátoru do navigace. Jistě jeden konec mini USB a druhý? A jak to připojit k aku, aby byla správná polarita. A totéž v podstatě platí i o té druhé variantě. Ta by byla pro mé možnosti dokonce lepší, protože rád fotím a mám proto doma poměrně dost nabíjecích AA aku baterií i kvalitní nabíječku pro ně. Ale mé další znalosti ani šikovnost ručiček asi nedovolí vyrobit něco vhodného, i když se to nezdá nějak moc složité. Ale chybí mně znalosti o mini USB. I tak Vám děkuji. -- 17 bře 2011, 23:18 -- Pro Zubr 123: děkuji, ta krabička na 4 ks AA s USB je jak na to dělaná. Moc děkuji za odkazy na ni.</text>
+   </post>
+   <post>
+      <id>7</id>
+      <replyTo>6</replyTo>
+      <timeStamp> 18. 3. 2011 07:53 </timeStamp>
+      <author>all in one</author>
+      <text>Nepropadejte panice, vše se dá zvládnout s nakoupenými součástkami, nebudete nic pracně vyrábět: 1. krabička "od Zubra" s USB a dokoupit kabel USB&gt;&gt;miniUSB - jistě bude správně propojený a vy si budete jen zkoušet vhodnou kapacitu nabíjecích AA - výběrem z těch, které máte doma. Podle údajů Zubra bych počítal s odběrem 0,3 - 0,5 A. 2. pokud byste volil naše řešení, opět není problém - aku je na 12V a kabel používáme dodaný s PDA/PNA pro napájení v autě (12V). Zásuvku (pro zapalovač) a vidličky koupíte v GM, GES, nebo prodejně autopříslušenství, zásuvka má + pól na středním vývodu. Aku je popsaný, vidličky jsou "mačkací" - nepájí se. Ve vašem případě bych šel cestou 1- model Zubr, máte doma dost AA nabíjecích, možná menší kapacity než budete potřebovat - nevadí, maximálně si povezete v kapse ještě jednu nabitou sadu a vyměníte během jízdy. Ve vašem případě žádný problém, umí-li navigace zaznamenat STOPU, tak si je v PC spojíte, možná ani to ne, protože chvíli pojedete na vnitřní baterii. Pěkné poježdění po ČR i A</text>
+   </post>
+   <post>
+      <id>8</id>
+      <replyTo>5</replyTo>
+      <timeStamp> 18. 3. 2011 08:28 </timeStamp>
+      <author>Zubr123</author>
+      <text>V té diskuzi, co jsem na ni poslal odkaz našli diskutující několik hotových krabiček. Nic se nemusí vyrábět. Jen koupíte vhodnou krabičku a pokud není součástí tak i USB kabel. Stejný kabel zřejmě používáte i pro spojení navigace s PC. Jsou tam i vatrianty se solárními panely. Já používám AAacu ze stejného důvodu jako uvádíte Vy. Mám je do foťáku, navigace a také baterky na svícení. Odběr samozřejmě záleží na typu navigace a hlavně na intenzitě podsvícení. Tenkrát jsem měřil odběr s plným jasem. Pokud potřebujete trvalý záznam stopy s výdrží 10 h, tak je vhodnější opravdová turistická navigace. Kromě výdrže některé mívají i citlivější přijímač. Případně varianta napájení od al in one. Já ji zapínám jen pokud se ztratím, takže mi jedna sada obvykle vydrží celý týden.</text>
+   </post>
+   <post>
+      <id>9</id>
+      <replyTo>1</replyTo>
+      <timeStamp> 18. 3. 2011 09:23 </timeStamp>
+      <author>PatrikChrz</author>
+      <text>Videl jsem prodavat krabicky, co se pripoji na dynamo a davaji stabilni proud 5V. Dle meho nazoru na kolo idealni. Kolisani napeti (smerem dolu) pri zastavovani nebude vadit, to vykryje akumulator navigace. Pak jsou univerzalni zdroje na 1 AA nebo AAA baterii, pouzivaji se napr. na dobijeni mobilu. Kamarad si jich par objednal z Ciny, jsou za par korun, treba by odprodal .</text>
+   </post>
+   <post>
+      <id>10</id>
+      <replyTo>9</replyTo>
+      <timeStamp> 18. 3. 2011 10:08 </timeStamp>
+      <author>Raziel-CZ</author>
+      <text>Mám navíc tak 4, byly by po 100 Kč za kus. Jsou pro případ blížícího se vybití baterie v telefonu. Jde o rourku o velikosti cca baterie AA, která udržuje mobil a zároveň jej zlehka nabíjí. Dost se hodí na cesty, kdy nemáte možnost telefon nabíj. Takže pokud by někdo měl zájem, stačí se ozvat. Mají 4 typy konektorů a to na starý typ Nokia 3310 a kompatibilní, Nokia C5 a kompatibilní a pak ještě nějaké dva. Víc info třeba zde: http://aukro.cz/vse-v-jednom-mobil-nabi ... 64181.html</text>
+   </post>
+   <post>
+      <id>11</id>
+      <replyTo>10</replyTo>
+      <timeStamp> 18. 3. 2011 10:58 </timeStamp>
+      <author>Zubr123</author>
+      <text>Pozor. Navigace má podstatně větší nároky na kapacitu baterky než mobil. Zdroje s jednou AA nebo sadou AAA jsou pro tyto účely k ničemu.</text>
+   </post>
+   <post>
+      <id>12</id>
+      <replyTo>11</replyTo>
+      <timeStamp> 18. 3. 2011 12:25 </timeStamp>
+      <author>JaKot</author>
+      <text>Pánové, já Vám všem co jste sem přispěli svou radou moc děkuji. Budu úpřímný, když uvedu, že jsem takovou seriózní ochotu pomoci nečekal, protože na některých DF, když někdo potřebuje s něčím poradit, tak si z něj dělají srandičky až po urážky a osobní invektivy. Proto musím říct, že mám z ochoty Vás všech hodně příjemný pocit. DÍK. Protože v úterý jedu pracovně do Prahy (jsem od Kroměříže), tak se zastavím v PS Electronics s.r.o. (vím, jsou přestěhovaní od loňského roku) a zkusím koupit tu krabičku za cca 100 Kč na 4 ks AA s výstupem USB a uvidím, co to s navigací udělá. Zkrátka to vyzkouším. Myslím si, že systém bude funkční, i když celek bude dávat "jen" 4,8 V místo potřebných 5 V. A nakonec jak uvádíte, není problém s sebou mít další sadu nebo i sady plně nabitých AA po 4 ks. Všem Vám ještě jednou děkuji a přeji příjemný víkend.</text>
+   </post>
+   <post>
+      <id>13</id>
+      <replyTo>12</replyTo>
+      <timeStamp> 18. 3. 2011 13:59 </timeStamp>
+      <author>all in one</author>
+      <text>Problém by být neměl, PNA očekává 5V a dostane 4,8V t.j. o pouhá 4% méně. Potíže jsou u fotoaparátů na dvě tužkovky, které očekávají 3V, ale od nabíjecích AA dostanou pouze 2,4V, tede méně o 20% Na to již některé obvody hlídající podpětí reagují. Vím, že popírám svůj dřívější výrok, sorry, ale měl jsem v podvědomí problémy s foťákem a neuvědomil jsem si, že PNA nechce celých 6V, ale pouze 5V z USB, a že 4,8V ze 4xAA by mělo být v toleranci. Vestavěná baterie je jistě na 3,7V, takže na "spotřebu" ve stabilizátoru toho zbývá dost. Pěkný víkend, úspěšný nákup a dobře si zajezděte!</text>
+   </post>
+   <post>
+      <id>14</id>
+      <replyTo>9</replyTo>
+      <timeStamp> 18. 3. 2011 16:05 </timeStamp>
+      <author>PatrikChrz</author>
+      <text>Jen info k té nabíječce na kolo http://www.pdasoft.cz/modules.php?name= ... e&amp;sid=4259</text>
+   </post>
+   <post>
+      <id>15</id>
+      <replyTo>12</replyTo>
+      <timeStamp> 23. 3. 2011 00:03 </timeStamp>
+      <author>JaKot</author>
+      <text>Vážení, tak jsem koupil tu zázračnou krabičku pro 4 ks AA s výstupem USB za nějakých 90 Kč v PS electronic (byl jsem pracovně v Praze) a v zápětí po odebrání krabičky - jako dalšího zdroje el. en. do Garmin Nuvi 760 - jsem odzkoušel a jaké bylo mé zděšení. Po zasunutí USB B do navigace a zapnutí zdroje se 4 ks AA se navi uvedla do stavu v jakém je, když ji připojím přes tentýž USB - B k PC. To znamená, že nebyla schopná navigovat, byla v režimu připojení k PC. Že mně to nenapadlo dříve, vždyť vím, že to tak je. V záchvatu euforie, že budu mít navigaci se zdrojem, který hodně prodlouží možnost jejího použití mimo auto, jsem si to vůbec neuvědomil. Takže zde uvedený nápad je k ničemu, bohužel.</text>
+   </post>
+   <post>
+      <id>16</id>
+      <replyTo>15</replyTo>
+      <timeStamp> 23. 3. 2011 08:35 </timeStamp>
+      <author>Rubic</author>
+      <text>Dobrý den, na Nuvi 765 to fungovalo s FW 3.9 - po vyčkání 1.minuty přešla navigace do pracovního režimu. S aktualizací na FW 4.0 tato možnost zmizela, ne každá aktualizace je přínosem, proto jsem Vám tuto variantu nedoporučoval. Neházejte však unáhleně flintu do žita. Asi to lze řešit úpravou USB kabelu (forum Path)nebo prohledejte příspěvky nuvi_joe který někde dříve doporučoval jak přejít do pracovního režimu prostřednictvím servisního menu.</text>
+   </post>
+   <post>
+      <id>17</id>
+      <replyTo>15</replyTo>
+      <timeStamp> 23. 3. 2011 09:06 </timeStamp>
+      <author>all in one</author>
+      <text>To mne mrzí a divím se - mám PDA a turistického Garmina a oba se připojují k PC i na externí napájení přes tentýž konektor. Vy máte dva konektory - jeden na připojení k PC a druhý na externí napájení? O víkendu budu u majitele 760-ky, tak se podívám zda lze z problému vybřednout. Vysvětlení dává asi kolega v předchozím příspěvku. Snad se ozve někdo další - znalý problému. Zatím hledejte také zde: http://www.path.cz/forum/viewtopic.php?f=19&amp;t=69 nebo dotaz u dodavatele: http://podpora.garmin.cz/ http://www.gpscentrum.cz/kontakty/</text>
+   </post>
+   <post>
+      <id>18</id>
+      <replyTo>15</replyTo>
+      <timeStamp> 23. 3. 2011 11:18 </timeStamp>
+      <author>Zubr123</author>
+      <text>Problém je v tom, že některé navigace detekují připojení PC podle signálu na datových linkách. Pokud jsou nepřipojené, je režim dobíjení. To je třeba případ Navigonů. U jiných se kontroluje stav pinu ID(4). Pokud je nepřipojený, je komunikace s PC. Pokud je spojený s pinem GND (5) je dobíjení. Vím, že je to u navigací MIO a zřejmě i Garmin. V tom případě je skutečně nutný jeden kabel pro PC a jiný pro dobíjení. Garmin ale nemám, takže nevím jak se to řeší. Kód: Vybrat vše http://www.tomasii.cdc.cz/jak_je_zapojen_usb_kabel_pro_mio.html</text>
+   </post>
+   <post>
+      <id>19</id>
+      <replyTo>15</replyTo>
+      <timeStamp> 23. 3. 2011 19:12 </timeStamp>
+      <author>Rubic</author>
+      <text>Zdravím, našel jsem ten starší příspěvek, snad pomůže: Nový příspěvek od nuvi_joe 27. 6. 2010 07:47 Garmin obecně není nastaven tak, aby byl připojen pomocí USB k PC a současně zobrazoval mapu. Proto existují tzv. "nedokumentované" postupy - jeden z nich: 1. Normálně zapneme Nuvi bez USB kabelu. 2. Přidržíme stylus na symbolu baterie až Nuvi vběhne do servisního menu 3. Zapojíme kabel USB (ozve se hlasité pípnutí) 4. Tlačítkem EXIT opustíme servisní menu 5. Nuvi bude v režimu "Nabíjení" a umožní práci s mapami Tento postup nemusí pracovat u všech navigací ani u všech verzí frmware.</text>
+   </post>
+   <post>
+      <id>20</id>
+      <replyTo>17,19</replyTo>
+      <timeStamp> 23. 3. 2011 22:31 </timeStamp>
+      <author>JaKot</author>
+      <text>Teď jsem si znovu přečetl svůj včerejší disk. příspěvek a jsem nemile překvapen, protože dnes mně vyzněl, jako bych vám, kteří jste se mně snažili poradit, dával vinu za to, že to nefunguje. Ne, tak nebyl můj včerejší příspěvek zamýšlen a mrzí mně to. Jen jsem byl hodně natěšený, že budu mít další kapacitní zdroj a ono mně to zklamalo, takže zklamání ano, ale nikoliv vaši vinou. Já jsem už o tomto problému někdy tady četl, ale zapomněl jsem to. Takže zklamání mou vinou. A navíc, přece jsem se sám rozhodl pro použití navrženého řešení. Ono totiž vůbec nejde o těch 90 Kč za tu krabičku. Jen tak na okraj, včera v Praze jsem hledal fy PS electronic i pomocí navigace a musím konstatovat, že jsou tak zastrčení, že jsem to dost složitě hledal. Děkuji Rubicovi za další návrh, jak daný problém vyřešit. Vyzkouším jej a dám vědět zda se to povedlo, ale dnes už ne. Musím ještě něco zpracovat do práce. Pro all in one: ano 760-tka má dva konektory, jeden pro napájení z aktivního držáku a druhý pro připojení k PC. Ještě jednou Vám všem, děkuji. -- 23 bře 2011, 21:53 -- Nedalo mně to a tak jsem to přece jen vyzkoušel ještě teď. A ono to fakt FUNGUJE, podle toho, co našel Rubic. Postupoval jsem jak je uvedeno v postupu a skvělé. Mockrát děkuji všem a obzvlášť Rubicovi.</text>
+   </post>
+   <post>
+      <id>21</id>
+      <replyTo>20</replyTo>
+      <timeStamp> 24. 3. 2011 06:44 </timeStamp>
+      <author>Rubic</author>
+      <text>Díky zaslouží především nuvi_joe, mne hřeje vědomí, že si občas ještě něco pamatuji. Také je nabízeno hotové řešení, ale ta cena ? http://www.gpscentrum.cz/index.php?page ... l&amp;item=208</text>
+   </post>
+   <post>
+      <id>22</id>
+      <replyTo>20</replyTo>
+      <timeStamp> 24. 3. 2011 08:11 </timeStamp>
+      <author>all in one</author>
+      <text>Také děkuji Rubicovi za jeho aktivní zapojení se do diskuse. Ten postup si někam založím! Jakotovi přeji pohodové kilometry na kole.</text>
+   </post>
+   <post>
+      <id>23</id>
+      <replyTo>22</replyTo>
+      <timeStamp> 25. 3. 2011 00:48 </timeStamp>
+      <author>JaKot</author>
+      <text>Dík</text>
+   </post>
+   <post>
+      <id>24</id>
+      <replyTo>20</replyTo>
+      <timeStamp> 3. 4. 2011 01:21 </timeStamp>
+      <author>JaKot</author>
+      <text>Krátká zkušenost z použití pomocného napájení z pomocného zdroje na 4 ks tužkových baterií AA. Ta praktická zkušenost hovoří v neprospěch použití nabíjecích AA akumulátorů, které mají napětí "jen" 1,2 V. Ty ač plně nabité (dokonce těsně před použitím) nepřetlačí do navigace el. proud. Když použiji klasické tužkové baterie á 1,5V, tak pomocný zdroj dobíjí navigaci. Zatím jsem ale nezkoušel jak dlouho vydrží, chci ponechat baterie až vyjedu na kole někde v okolí bydliště, protože jak jsem již dříve psal, nejezdím často na kole. Zkoušel jsem to cca 20 minut.</text>
+   </post>
+   <post>
+      <id>25</id>
+      <replyTo>24</replyTo>
+      <timeStamp> 3. 4. 2011 09:21 </timeStamp>
+      <author>all in one</author>
+      <text>Psal jste, že máte vícero nabíjecích AA aku, tak vyzkoušejte ještě jinou serii - starším aku roste časem vnitřní odpor a při větším proudu jim klesá výstupní napětí a "neprotlačí" se do navigace. Máte-li voltmetr, tak si přeměřte napětí na aku při odběru a podle toho vybírejte články. Byly na trhu SANYO 2700 mAh, které se tak chovaly i jako nové (bohužel jsem je koupil a dost se s nimi natrápi!).</text>
+   </post>
+   <post>
+      <id>26</id>
+      <replyTo>25</replyTo>
+      <timeStamp> 3. 4. 2011 19:17 </timeStamp>
+      <author>JaKot</author>
+      <text>Voltmetr nemám, ale zkušenosti s nabíjecími AA nebo AAA mám dost velké. Poslední rok až dva používám AA, která mají značně potlačené samovybíjení (Sanyo Eneloop, Panasonic Infinium, Sony Cycle Energy) a Sanya 2300, 2500 a 2700 jsem postupně odložil. Já jsem měl úplně největší problémy se Sanyo 2500, kterých jsem měl svého času cca 25 ks a po, dá se říct, přesně ročním užívání, začaly jedna po druhé odcházet. A shodou náhod mám celý víkend v nabíječce nasazeny 4 ks a 4 ks (z těch asi rok odložených) Sanyo 2700 a snažím se je oživit, právě za stejným účelem, který mně radíte - zkusit jestli nebudou vhodnější. Bohužel, už jsou natolik "mrtvé", že je nelze pomocí nabíječky, která má pro oživení svůj program, oživit. To ale nevadí, jak jsem uváděl, zase tak moc na kole rekreačně nejezdím a pokud ano, tak v okolí bydliště, kde navigaci nepotřebuji. A pokud ji použiji třeba jednou, či dvakrát za rok, tak koupím klasické tužkové 1,5 V. Já jsem to tady napsal jako svou zkušenost pro informaci ostatním. Za radu co dál udělat, však mockrát děkuji. Myslím si, že tak by měla fungovat diskuzní fóra.</text>
+   </post>
+   <post>
+      <id>27</id>
+      <replyTo>21</replyTo>
+      <timeStamp> 4. 4. 2011 11:31 </timeStamp>
+      <author>Zubr123</author>
+      <text>V navigacích jsou většinou baterie s napětím 3.6 V nebo 3.7 V a proto je v nich nějaký stabilizátor s hlídáním dobíjení. Typ použitého obvodu a baterky určuje minimální napětí, při kterém se proud protlačí do navigace. V Navigonu jsem měřil závislost mezi proudem a napětím a tak vím, že navigace se začíná dobíjet při napětí min 4.5 V. Je to tedy určené typem navigace. Pro občasné použití samozřejmě stačí používat normální 1.5 V baterky. V principu to jde řešit nějakým stepup stabilizátorem. Je možné, že se prodává nějaká krabička, která má zabudovaný stabilizátor, který dělá konstantní 5V výstupní napětí. To bude asi i v krabičkách z odkazu Rubic.</text>
+   </post>
+   <post>
+      <id>28</id>
+      <replyTo>27</replyTo>
+      <timeStamp> 4. 4. 2011 14:58 </timeStamp>
+      <author>all in one</author>
+      <text>V krabičkách od Rubice je a) lithiová baterie 5V, nebo b) 8 x AA po 1,2V + (možná) stabilizátor, ale ta CENA !!! Problém našeho kolegy je řádu desetin voltů - viz AA aku NE, klasické baterie AA ANO. Takže by stačilo přidat ještě držák na jeden nabíjeci aku AA a vše je OK. http://www.gme.cz/cz/chemie-baterie/pou ... 41.html#p1 Používání násobičů napětí a podobných zařízení považuji za ujetost - i cenovou. Pro častější používání raději to naše řešení s Pb-aku 12V + dodaný kabel pro napájení z auta. Naše použití je jiné, ale i na kole se jistě najde místo pro jeho elegantní umístění. Cena aku podle kapacity a výrobce od 150 do 350 Kč. A hlavně - No Problem! P.S. pokud si chcete o problému ještě počíst, pak třeba zde: http://www.geocaching.cz/forum/viewthre ... ad_id=6432</text>
+   </post>
+   <post>
+      <id>29</id>
+      <replyTo>28</replyTo>
+      <timeStamp> 4. 4. 2011 20:20 </timeStamp>
+      <author>Zubr123</author>
+      <text>V Garminu je zřejmě použítý stabec, který potřebuje větší rozdíl napětí a tím se to celé komplikuje. Jinak ve většině navigací to na 4 nabíjecí chodí bez problému viz. i odkaz od all_in_one. Ta krabička na 8 AA z odkazu Rubic zase není tak nezajímavá. Jednak je zde větší kapacita, takže i delší výdrž a součástí je i pouzdro s uchycením. Uvnitř bude téměř jistě spínaný stabilizátor s výstupním napětím 5V. Cena 800 Kč je samozřejmě vyšší než samotný držák, ale je to komplet řešení. Sám uvažuji, že zahodím svůj bastl koupím si něco podobného.</text>
+   </post>
+   <post>
+      <id>30</id>
+	  <replyTo>26</replyTo>
+      <timeStamp> 17. 4. 2011 19:15 </timeStamp>
+      <author>Rubic</author>
+      <text>JaKot Zdravím, nepotěším Tě, s Tvou provozní zkušeností s levným přídavným zdrojem nemohu souhlasit. Nedávno jsem na vedlejším fóru ověřoval životnost vnitřní baterie v Nuvi 765 po cca dvouletém provozu, moc slavné to nebylo. Za 1h 20min už přišla signalizace "Slabá baterie". Sebral jsem vnukovi z autíčka akumulátorky Sanyo 2500 mAh a připojil se dle zmíněného receptu paralelně - spolupracuje to ! Po připojení akumulátorků to v kontrolním menu píše kapacitu baterie 100%. Zřejmě si použil akumulátorky, které již byly na vyhození. Pro jízdu na kole bude náročnější mechanické upevnění USB-mini konektoru, aby nedocházelo k přerušení vnějšího napájení. Signalizace slabé baterie nepřišla, přerušilo se napájení za 3h 40min. Po celou dobu Nuvi byla v simulačním provozu po vlastní trase. Dvě pouzdra se čtyřmi akumulátorky by vystačily na 7h provozu. Samozřejmě, použití vícekapacitní baterie je lepší, ale náklady rostou neúměrně.</text>
+   </post>
+   <post>
+      <id>31</id>
+      <replyTo>30</replyTo>
+      <timeStamp> 17. 4. 2011 21:32 </timeStamp>
+      <author>all in one</author>
+      <text>Rubic: Souhlas. Nedalo mi to a také jsem si ve volném čase hrál s nabíjecími aku. Na mém PDA to funguje, pro nevěřící mám foto. Dospěl jsem k zajímavým závěrům: Blok 4xAA lze nabít ne na 4,8 V, ale na více jak 5,5 V. Asi má S-charakteristiku nabíjení podobně jako olověné. Po připojení k PDA - jehož baterie byla nabita pouze z 50% - napětí na bloku kleslo na 5,04V a dioda na PDA hlásila nabíjení. Výdrž jsem nezkoušel, ale 8-10 hodin to zjevně nebude. Záleží velmi na kvalite AA aku-článků, jinak je to duchařina a aby se člověk vyhnul zklamání chce to experimentovat s měřákem v ruce.</text>
+   </post>
+   <post>
+      <id>32</id>
+      <replyTo>30</replyTo>
+      <timeStamp> 17. 4. 2011 22:25 </timeStamp>
+      <author>JaKot</author>
+      <text>Rubic píše;JaKot Zdravím, nepotěším Tě, s Tvou provozní zkušeností s levným přídavným zdrojem nemohu souhlasit. Nedávno jsem na vedlejším fóru ověřoval životnost vnitřní baterie v Nuvi 765 po cca dvouletém provozu, moc slavné to nebylo. Za 1h 20min už přišla signalizace "Slabá baterie". Sebral jsem vnukovi z autíčka akumulátorky Sanyo 2500 mAh a připojil se dle zmíněného receptu paralelně - spolupracuje to ! Po připojení akumulátorků to v kontrolním menu píše kapacitu baterie 100%. Zřejmě si použil akumulátorky, které již byly na vyhození. Pro jízdu na kole bude náročnější mechanické upevnění USB-mini konektoru, aby nedocházelo k přerušení vnějšího napájení. Signalizace slabé baterie nepřišla, přerušilo se napájení za 3h 40min. Po celou dobu Nuvi byla v simulačním provozu po vlastní trase. Dvě pouzdra se čtyřmi akumulátorky by vystačily na 7h provozu. Samozřejmě, použití vícekapacitní baterie je lepší, ale náklady rostou neúměrně. Souhlasit se mnou nemusíte, ale nic na mé zkušenosti nezměníte (vůbec nemyšleno arogantně). Říkal jsem, že nemám žádná měřící zařízení, abych změřil jaké jsou hodnoty napětí na jednotlivých zdrojích, či zařízeních, ani to není můj "obor" a moc tomu nerozumím, bohužel. Proto se tady nechci v žádném případě přít, ale mnou popsanou zkušenost jsem skutečně získal odzkoušením jak nabíjecích akumulátorů, tak jednorázových tužkových baterií. Bohužel byl jsem posledních asi 10 dnů značně pracovně zaneprázdněn (velký požár v našem městečku) a v mém případě další "zkoušení", nikoliv měření jsem neprováděl. Jen podotknu, že nabíjecí aku Sanyo 2700 se mně nepodařilo oživit. Mám proto k dispozici "jen" akumulátory Sanyo eneloop, Sony CycleEnergy a Panasonic Infinium, které mají potlačené samovybíjení. A ty, mám k dispozici jak skoro nové, tak jeden rok a taky až dva roky používané. Sanya 2100, 2300, 2500 a 2700 už vůbec nepoužívám, mám jen jednu sadu 4 ks "živých" Sanyo 2300, ještě nebyl čas to odzkoušet. Z pohledu mé osoby mně ale nevadí, že mně to na nabíjecí aku nefunguje, mám ověřeno, že na jednorázovky to je funkční. Ale z pohledu všeobecného je lepší, když bude zveřejněná objektivní znalost k danému problému, který tady prezentujete vy, kteří jste znalí v elektrotechnice. Zveřejněním mých zkušeností jsem tady nechtěl nikoho mystifikovat. Každý si ale v konečném kontextu bude muset vyzkoušet na svém konkrétním zařízení (spotřebiči) a se svým el. zdrojem, zda mu to skutečně funguje. Dík ale za vaše názory.</text>
+   </post>
+   <post>
+      <id>33</id>
+      <replyTo>32</replyTo>
+      <timeStamp> 18. 4. 2011 07:34 </timeStamp>
+      <author>all in one</author>
+      <text>Nejsme ve sporu, vaše zkušenosti jsou nějaké, Rubicovy a moje také nějaké. Jde o to sdělit si je, aby to vedlo k nějakému pozitivnímu výsledku. Nikdo nikoho neobviňuje z mystifikace. Trochu mi to vadí, že jsem vám radil a vám to nefunguje, proto jsem se problému příležitostně věnoval. Každý to zkoušíme na jiném zařízení, i to může mít vliv. Velice mne překvapily hodnoty napětí při nabíjení. Jsem elektrotechnicky vzdělán, ale pokud mne okolnosti nenutí, tak se chovám jako spotřebitel: nabiju &gt; vložím &gt; funguje &gt; není co studovat! Ozvěte se až vám okolnosti dovolí.</text>
+   </post>
+   <post>
+      <id>34</id>
+      <replyTo>33</replyTo>
+      <timeStamp> 19. 4. 2011 21:18 </timeStamp>
+      <author>Rubic</author>
+      <text>Dobrý večer, pro použití na kole je jasný požadavek co největší kapacity baterie při únosných rozměrech a v neposlední řadě také únosné ceně. Na síti jsem si všiml dalších dvou nabídek http://www.deramax.cz/aku-li-ion-5v-20a ... 782-c-962/ http://www.zagg.com/accessories/zaggsparq.php Pěkné zdroje, ale nad naše poměry.</text>
+   </post>
+</thread>
